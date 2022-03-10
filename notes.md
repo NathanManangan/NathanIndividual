@@ -32,7 +32,6 @@
     Computing innovations have often had unintended beneficial effects by leading to advances in other fields
     
     Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer
-    
 </a>
 
 <a>
