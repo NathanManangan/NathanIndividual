@@ -43,11 +43,11 @@
     
     The “digital divide” refers to differing access to computing devices and the Internet, based on socioeconomic, geographic, or demographic characteristics
     
-    The digital divide can affect both groups and individuals
+        The digital divide can affect both groups and individuals
     
-    The digital divide raises issues of equity, access, and influence, both globally and locally
+        The digital divide raises issues of equity, access, and influence, both globally and locally
     
-    The digital divide is affected by the actions of individuals, organizations, and governments
+        The digital divide is affected by the actions of individuals, organizations, and governments
     
 </a>
 
