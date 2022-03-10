@@ -4,6 +4,7 @@
 
 <h2> 5.1 Beneficial & Harmful Effects </h2>
 <a>
+    
     People create computing innovations
     
     The way people complete tasks often changes to incorporate new computing innovations
