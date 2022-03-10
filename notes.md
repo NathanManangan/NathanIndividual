@@ -32,8 +32,7 @@
     Computing innovations have often had unintended beneficial effects by leading to advances in other fields
     
     Rapid sharing of a program or running a program with a large number of users can result in significant impacts beyond the intended purpose or control of the programmer
-</a>
-
+    
 <a>
     
     Questions:
@@ -47,8 +46,6 @@
     2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
     
     Dopamine is a real issue, as dopamine is very addicting. Every human is prone to seeking out things that make them happy, and that is what dopamine is. If a certain thing gives you a constant amount of dopamine, you're likely to become addicted to it, which would impact your life in numerous ways. It would affect sleep schedules and social lives, should you spend too much time doing it, and it would eventually affect how you perform in school. This can be seen in myself through playing too many games rather than studying, which is severely affecting my sleep schedule, but it definitely isn't as bad as Anthony Rosner.
-    
-</a>
 
 <h2> 5.2 Digital Divide </h2>
 
@@ -63,8 +60,6 @@
         The digital divide raises issues of equity, access, and influence, both globally and locally
     
         The digital divide is affected by the actions of individuals, organizations, and governments
-    
-</a>
 
 <a>
     
@@ -82,4 +77,3 @@
     
     There is red tape blocking digital empowerment everywhere, with the biggest being having the money to acquire this digital empowerment. At Del Norte, they offer ways to circumvent this red tape by providing technology in classes and with chromebooks, which would allow the digital empowerment of individuals who hadn't previously. Other sources also provide options for the unempowered, by having plenty of options to obtain old and unneeded technology for empowering, but isn't offered everywhere.
     
-</a>
