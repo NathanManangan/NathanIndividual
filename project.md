@@ -7,7 +7,7 @@
 # Code
 ## TT0
 ### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ProRichyMan/menu?v=1"> </iframe>
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ProRichyMan/menu?v=1?embed=true"> </iframe>
 
 ### [TREE](https://replit.com/@ProRichyMan/treepyramid?v=1)
 ````
