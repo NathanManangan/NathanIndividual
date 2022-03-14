@@ -67,25 +67,26 @@ while "choice" != 0:
 
 ### [TREE](https://replit.com/@ProRichyMan/treepyramid?v=1)
 ````
-print("Christmas Tree")
-#tree
-tree = [("        ","*"," "),
-        ("       ","* *"," "),
-        ("      ","* * *"," "),
-        ("     ","* * * *"," "),
-        ("    ","* * * * *"," "),
-        ("   ","* * * * * *"," "),
-        ("  ","* * * * * * *"," "),
-        (" ","* * * * * * * *"," "),
-        ("","* * * * * * * * *"," "),
-        ("       ","***"," "),
-        ("       ","***"," "),
-        ("       ","***"," "),
-  ]
-for x in tree:
-    for y in x:
-        print(y, end = " ")
-    print()
+import math
+
+try:
+  layers = int(input("How many layers of the pyramid (enter an integer): "))
+except:
+    print("That\'s not an integer! Please run again.")
+    exit()
+star = "* "
+x = 1
+spaceNum = layers
+
+print("Here's your tree")
+
+while x <= layers:
+  print((spaceNum * " ") + star)
+  star += "* "
+  spaceNum -= 1
+  x += 1
+
+print(" " * math.floor(layers/1.11) + "***")
 ````
 ### [ANIMATION](https://replit.com/@ProRichyMan/animation?v=1)
 ````
