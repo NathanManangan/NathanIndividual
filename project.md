@@ -6,7 +6,7 @@
 
 # Code
 ## TT0
-### Menu
+### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
 ````
 # menuy.py - function style menu
 # Imports typically listed at top
@@ -114,7 +114,7 @@ def buildMenu(banner, options):
 if __name__ == "__main__":
     menu()
 ````
-### Tree
+### [TREE](https://replit.com/@ProRichyMan/treepyramid?v=1)
 ````
 print("Christmas Tree")
 #tree
@@ -136,7 +136,7 @@ for x in tree:
         print(y, end = " ")
     print()
 ````
-### Animation
+### [ANIMATION](https://replit.com/@ProRichyMan/animation?v=1)
 ````
 import time
 
