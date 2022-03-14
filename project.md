@@ -158,12 +158,10 @@ def ship_print(position):
     print(ANSI_HOME_CURSOR)
     print(RESET_COLOR)
     sp = " " * position
-    print(sp + " |￣￣￣￣￣ |   ")
-    print(sp + " |   Hello   |   ")
-    print(sp + " |___________|   ")
-    print(sp + " (\__/) ||    ")
-    print(sp + " (•ㅅ•) ||  ")
-    print(sp + " / 　 づ  ")
+    print(sp + " _____________   ")
+    print(sp + " [][][][][] |_\_   ")
+    print(sp + " |  City Bus |   )   ")
+    print(sp + " =--OO-------OO--=    ")
     print(RESET_COLOR)
 
 # ship function, iterface into this file
