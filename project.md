@@ -1,8 +1,8 @@
 {% include navigation.html %}
 
 # Data Structure
-## <a href="https://github.com/BrianZhang2016/Brian-Individual"> Github Link</a>
-## <a href="https://replit.com/@BrianZhang2016"> Replit Link</a>
+## <a href="https://github.com/ProRichyMan/NathanIndividual"> Github Link</a>
+## <a href="https://replit.com/@ProRichyman"> Replit Link</a>
 
 # Code
 ## TT0
