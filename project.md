@@ -7,7 +7,6 @@
 # Code
 ## TT0
 ### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
-<iframe frameborder="0" width="80%" height="500px" src="https://replit.com/@ProRichyMan/menu#main.py?lite=true"></iframe>
 ````
 import math 
 
