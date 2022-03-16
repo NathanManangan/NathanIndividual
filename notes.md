@@ -145,9 +145,9 @@
     
     CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
     
-    
+    A crowdsource idea might be to have one big collaborative github project/repo, where every team is working on a seperate part of a lrager project, which would benefit the environment by pushing it out to family and friends and serving its purpose.
     
     What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
     
-    
+    DNHS crowdsourcing is directing material and classes to better benefit the student majority. The final project could be better with crowdsourcing if we correctly display info based on our client.
     
