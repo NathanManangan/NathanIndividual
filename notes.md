@@ -86,6 +86,30 @@
     Programmers should take action to reduce bias in algorithms used for computing innovations as a way of combating existing human biases
     
     Biases can be embedded at all levels of software development
+    
+<a>
+    
+    Questions
+    
+    Does the owner of the computer think this was intentional?
+    
+    No because I believe they simply just didn't account for the variablity in skin color. They likely just didnt test this.
+   
+    How do you think this happened?
+    
+    I believe this happened due to lack of proper testing on darker skin colors.
+    
+    Is this harmful? Was it intended to be harmful or exclude?
+    
+    It is harmful to those that are affected, however it was not made to be harmful, and it's intention was meant to be beneficial rather than harmful.
+    
+    Should it be corrected?
+    
+    I do believe it should be corrected, as the population affected is excluded from the features of the program in the computer.
+    
+    What would you or should you do to produce a better outcome?
+    
+    I would try to fix it by running tests until darker skins coul dbe accounted for in the program's detection of faces.
 
 <h2> 5.4: Crowdsourcing </h2>
 
@@ -114,4 +138,16 @@
     - Crowdfunding like kickstarter and GoFundMe
     
     - Blockchain like crypto and other tokens
-
+    
+<a>
+    
+    Questions
+    
+    CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+    
+    
+    
+    What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+    
+    
+    
