@@ -8,7 +8,6 @@
 ## TT0
 ### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ProRichyMan/menu?lite=true#menu.py"></iframe>
-https://replit.com/@ProRichyMan/menu#main.py
 ````
 import math 
 
