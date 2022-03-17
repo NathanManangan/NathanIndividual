@@ -6,8 +6,11 @@
 
 # Code
 ## TT0
-### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
+
+## Replit Embed
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ProRichyMan/menu?lite=true#menu.py"></iframe>
+
+### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
 ````
 import math 
 
