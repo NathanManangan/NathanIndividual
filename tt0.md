@@ -1,11 +1,12 @@
 {% include navigation.html %}
 
+# TT0
+
+{% include tt.html %}
+
 # Data Structure
 ## <a href="https://github.com/ProRichyMan/NathanIndividual"> Github Link</a>
 ## <a href="https://replit.com/@ProRichyman"> Replit Link</a>
-
-# Code
-## TT0
 
 ## Replit Embed
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ProRichyMan/menu?lite=true#menu.py"></iframe>
