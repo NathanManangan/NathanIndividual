@@ -153,48 +153,44 @@
     
     DNHS crowdsourcing is directing material and classes to better benefit the student majority. The final project could be better with crowdsourcing if we correctly display info based on our client.
     
-<a>
-    
-    <h2> 5.5: Legal and Ethical Concerns </h2>
+<h2> 5.5: Legal and Ethical Concerns </h2>
      
-    <a>
+<a>
         
-        Open source - Programs feely available and can be modified/redistributed
+    Open source - Programs feely available and can be modified/redistributed
         
-        Open access - Online research output free of restriction access like copyright and licensing
+    Open access - Online research output free of restriction access like copyright and licensing
         
-        Intellectual Property: (IP), work or invention that's a result of creativity to which one has rights
+    Intellectual Property: (IP), work or invention that's a result of creativity to which one has rights
         
-        Copyright:
+    Copyright:
         
-            - Protects your IP and keeps anybody from using it unless you get permission
+        - Protects your IP and keeps anybody from using it unless you get permission
+       
+        - Plagiarism, presenting material as ur own
         
-            - Plagiarism, presenting material as ur own
+        - Legal ways to use material
         
-            - Legal ways to use material
+        - Open source
         
-            - Open source
+        - Open access
         
-            - Open access
+        - Creative Commons
         
-            - Creative Commons
+    Creative Commons:
         
-        Creative Commons:
+        - Provides a free license to tell others how ur gonna use their IP
         
-            - Provides a free license to tell others how ur gonna use their IP
+        - Defines the usage of IP
         
-            - Defines the usage of IP
+    Digital Divide:
         
-        Digital Divide:
-        
-            Unequal distribution of access to technology
+        - Unequal distribution of access to technology
 <a>
     
     Questions
-
-<a>
         
-    <h2> 5.6: Safe Computinga </h2>
+<h2> 5.6: Safe Computinga </h2>
      
     <a>
         
