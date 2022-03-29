@@ -189,6 +189,14 @@
 <a>
     
     Questions
+    
+    When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in GitHub pages.
+    - License: Creative Commons + MIT = Free distribution and use of the product, but author needs to be credited.
+
+    Make a license for your personal and Team project. Document license you picked and why.
+    - We picked MIT for both our personal and Team project
+    - MIT because the project can be picked up and our sponsor wanted it
+
         
 <h2> 5.6: Safe Computinga </h2>
      
@@ -251,5 +259,23 @@
 <a>
     
     Questions
+    
+    Describe PII you have seen on project in CompSci Principles.
+    - PII is Personal Identifiable Information, and is seen on projects through out About Me, Through CRUD and through our public domain.
+    
+    What are your feelings about PII and your exposure?
+    - I don't care too much about PII because I don't believe I have too much out there that can harm me, but the information that my parents have on me matters because those are important documents like birth certificate, ID, etc.
+    
+    Describe good and bad passwords? What is another step that is used to assist in authentication.
+    - A good password is one that can't easily be guessed by a robot or a person. A bad one is one that can be guessed, and hacked easily. Another step in authentication is 2FA, text/email messages when login.
+    
+    Try to describe Symmetric and Asymmetric encryption.
+    - Symmetric encryption is where the same key is used to code an decode something, by Asymmetric is one code for coding and another for decoding.
+    
+    Provide and example of encryption we used in deployment.
+    - When you update website, it asks for a password which is using encryption to check and secure passwords in a database.
+    
+    Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+    - Learned this by clicking an email on my dad's old mac and I opened it and an audio file came up that I couldn't close unless I force quit the PC, but I got so scared I ran away because I was young and didn't know.
     
     
