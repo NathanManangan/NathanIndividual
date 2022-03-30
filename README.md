@@ -11,8 +11,7 @@
   <tr>
     <td>
       <h3 href = "https://punarvasus.github.io/PopcornCritics/" > Team Github Page </h3>
-      <h3 href = "https://github.com/PunarvasuS/PopcornCritics/projects/1" > Scrumboard  </h3>
+      <a style="font-size: 25px; text-align: center" href = "https://github.com/PunarvasuS/PopcornCritics/projects/1" > Scrumboard </a>
     </td>
   </tr>
 </table>
-
