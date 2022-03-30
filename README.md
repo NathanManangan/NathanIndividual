@@ -1,6 +1,6 @@
 {% include navigation.html %}
 
-<h1> Nathan's Github Pages </h1>
+<h1 style="text-align: center"> Nathan's Github Pages </h1>
 
 <table>
   <tr>
