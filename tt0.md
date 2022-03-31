@@ -6,10 +6,10 @@
 
 # Data Structure
 ## <a href="https://github.com/ProRichyMan/NathanIndividual"> Github Link</a>
-## <a href="https://replit.com/@ProRichyman"> Replit Link</a>
+## <a href="https://replit.com/@ProRichyMan/Nathanreplit#main.py"> Replit Link</a>
 
 ## Replit Embed
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ProRichyMan/menu?lite=true#menu.py"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@ProRichyMan/Nathanreplit?lite=true#main.py"></iframe>
 
 ### [MENU](https://replit.com/@ProRichyMan/menu?v=1)
 ````
