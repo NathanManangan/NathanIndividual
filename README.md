@@ -10,8 +10,8 @@
   </tr>
   <tr>
     <td>
-      <h3> <a href = "https://punarvasus.github.io/PopcornCritics/" > Team Github Page </a></h3>
-      <h3> <a href ="https://github.com/PunarvasuS/PopcornCritics/projects/1"> Scrumboard </a></h3>
+      <h3><a href = "https://punarvasus.github.io/PopcornCritics/" > Team Github Page </a></h3>
+      <h3><a href ="https://github.com/PunarvasuS/PopcornCritics/projects/1"> Scrumboard </a></h3>
     </td>
   </tr>
 </table>
