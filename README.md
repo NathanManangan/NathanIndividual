@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center"> Nathan's Github Pages </h1>
 
-<table>
+<table style="border-width: medium">
   <tr>
     <td>
       <h1> Important Links </h1>
