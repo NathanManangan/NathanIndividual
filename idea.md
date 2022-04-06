@@ -6,8 +6,6 @@
 
 ## My plan for the College Board Create Task
 
-### [Runtime Link(blank)]()
-
 ### Program Overview
 In the program, I plan on taking an **INPUT** from the **USER**. It will ask for numbers, and then once the numbers are given, it will display **(MIN) (MAX) (AVG)**. The numbers will be put into a list, and once the user selects a button, the procedure will be called and run through the numbers. Then it will display the function result, minimum will display lowest to highest, maximum will display highest to lowest, and average will average the numbers in the list.
 
