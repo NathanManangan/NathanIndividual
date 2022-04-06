@@ -4,13 +4,13 @@
 
 {% include createtask.html %}
 
-### Nathan Written Response
+## Nathan Written Response
 Our plans for the written responses are encapsulated by our Initial create task project overview, and explaining how the program implements into our project's games page, the procedures the user input goes through to return the output, and explains how the numbers they give play a role in the output.
 
-## 3a
+### 3a
 - In our program, we plan on taking an **INPUT** from the **USER**. It will ask for 5 numbers, and then once the numbers are given, we will display **(MIN) (MAX) (AVG)**. For the video, we will do 1 run for each output of the program after a user input. This will be showing the inputs going into a list, then showing iteration for going through the lists, selection to display if a number is the lowest or highest then sequencing to check each number. The input is the user giving numbers, and the output will essentially show which number was the highest number, which one was the lowest number, and what the average for all of those numbers were.
 
-## 3b
+### 3b
 - `
 let list = document.getElementById("list");
 var li = document.createElement("li");
@@ -23,7 +23,7 @@ The data in the list shows the numbers that the user inputs and is used to find 
 
 Without the list the code wouldn't display any of the numbers the user input, as well as not be as user friendly.
 
-## 3c
+### 3c
 - `
 add.addEventListener("click", function()
 
@@ -42,7 +42,7 @@ The main function that does the the algorithms is named function(). Sequencing i
 `
 This is the HTML where the javascript functions are "called". It is called whenever the input is put in and the submit button is pressed. Once this happens the javascript function is run. Essentially, our algorithm takes each input from a user and adds it to a variable called count and sum. Count is the total numbers in the list and Sum is the sum of the numbers in the list. It also then makes the min and max temporarily the first input number. After more numbers are added, the each get compared to the first number, and if they the highest or lowest value out of the previous numbers, they are set to min or max. After all that happens, finally average is calculated by taking sum/count.
 
-## 3d
+### 3d
 - 
 `
 function minvar() {
