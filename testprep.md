@@ -10,13 +10,13 @@
 
 <h2> Week 1 (Units 1-5) </h2>
 
-<h3>
-Monday: Review old practice MCQ quizzes.
 
-Tuesday: Proctored AP Exam Day 1
+<h3>Monday: Review old practice MCQ quizzes.</h3>
 
-Wednesday: Review old units, especially ones that involved missed questions on old practice MCQ quizzes.
+<h3>Tuesday: Proctored AP Exam Day 1</h3>
 
-Thursday: Proctored AP Exam Day 2
+<h3>Wednesday: Review old units, especially ones that involved missed questions on old practice MCQ quizzes.</h3>
 
-Friday: Correct AP Exam, review questions that were wrong and look over past notes regarding missed questions.</h3>
+<h3>Thursday: Proctored AP Exam Day 2</h3>
+
+<h3>Friday: Correct AP Exam, review questions that were wrong and look over past notes regarding missed questions.</h3>
