@@ -14,6 +14,7 @@ My plans for the written responses are encapsulated by my Initial create task pr
 - `
 var list = []; // Defines list
 `
+
 The name of the list is list
 
 The data in the list has the numbers that the user inputs and is used to find values
@@ -21,6 +22,7 @@ The data in the list has the numbers that the user inputs and is used to find va
 Without the list the code wouldn't display any of the numbers the user input, as well as not be as user friendly.
 
 ### 3c
+
 - `
 function addnumber(){
     console.log("")
@@ -47,7 +49,9 @@ function addnumber(){
     button() // Redisplays the list
 }
 `
+
 The main function that does the the algorithms is named addnumber(). Sequencing is shown through every input, which is gone through the list to check if it's lower or greater than the previous numbers. Selection is then performed if it is less or greater than to make it the new min/max. Then finally, the iteration is performed with every single "click" event. With every click of submitting a number the process is repeated again showing iteration.
+
 
 `
 function button(){ // displays a menu and a prompt to choose
@@ -82,10 +86,11 @@ function button(){ // displays a menu and a prompt to choose
     
 }
 `
+
 This is the function, which is a menu, where the functions can be called. It is called at the very start of the program, and also called whenever 1-4 is responded. Once this happens the javascript function is run. Essentially, our algorithm takes each input from a user and adds it to a list, and also added to a variable called average. List is the numbers in the list and average is the sum of the numbers in the list. It also then makes the min and max temporarily the first input number. After more numbers are added, the each get compared to the first number, and if they the highest or lowest value out of the previous numbers, they are set to min or max. After all that happens, finally average is calculated by taking sum/count.
 
 ### 3d
-- 
+
 `
 
 if (funclist === 1){ // calls function for adding a number
@@ -113,4 +118,5 @@ if (funclist === 1){ // calls function for adding a number
     }
     
 `
+
 In the these calls, the functions are calling for the outputs from addnumber(), or calling for the function itself, and displaying it in the terminal. This is testing for the "min max avg" values that were calculated in addnumber(). This will then display them once inputted number 1-4.
