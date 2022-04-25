@@ -87,6 +87,7 @@ This is the function, which is a menu, where the functions can be called. It is 
 ### 3d
 - 
 `
+
 if (funclist === 1){ // calls function for adding a number
 
         addnumber()
