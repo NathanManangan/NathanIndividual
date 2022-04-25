@@ -24,7 +24,8 @@ Without the list the code wouldn't display any of the numbers the user input, as
 ### 3c
 
 - `
-function addnumber(){
+    function addnumber(){
+    
     console.log("")
 
     var numbers = parseInt(prompt("What number would you like to put in the list?")) // Prompts the user for an input
@@ -54,7 +55,7 @@ The main function that does the the algorithms is named addnumber(). Sequencing 
 
 
 `
-function button(){ // displays a menu and a prompt to choose
+    function button(){ // displays a menu and a prompt to choose
 
     console.log("1. Add a number");
     
@@ -93,7 +94,7 @@ This is the function, which is a menu, where the functions can be called. It is 
 
 `
 
-if (funclist === 1){ // calls function for adding a number
+    if (funclist === 1){ // calls function for adding a number
 
         addnumber()
         
