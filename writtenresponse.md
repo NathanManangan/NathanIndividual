@@ -51,25 +51,35 @@ The main function that does the the algorithms is named addnumber(). Sequencing 
 
 `
 function button(){ // displays a menu and a prompt to choose
+
     console.log("1. Add a number");
+    
     console.log("2. See the mininum value");
+    
     console.log("3. See the maximum value");
+    
     console.log("4. See the average");
+    
     console.log("5. Stop");
+    
     var funclist = parseInt(prompt("What option would you like to choose?"));
 
     if (funclist === 1){ // calls function for adding a number
         addnumber()
     }
+    
     else if(funclist === 2){ // calls minimum funciton
         minimum()
     }
+    
     else if(funclist === 3){ // calls maximum function
         maximum()
     }
+    
     else if(funclist === 4){ // calls average function
         avg()
     }
+    
 }
 `
 This is the function, which is a menu, where the functions can be called. It is called at the very start of the program, and also called whenever 1-4 is responded. Once this happens the javascript function is run. Essentially, our algorithm takes each input from a user and adds it to a list, and also added to a variable called average. List is the numbers in the list and average is the sum of the numbers in the list. It also then makes the min and max temporarily the first input number. After more numbers are added, the each get compared to the first number, and if they the highest or lowest value out of the previous numbers, they are set to min or max. After all that happens, finally average is calculated by taking sum/count.
@@ -78,16 +88,28 @@ This is the function, which is a menu, where the functions can be called. It is 
 - 
 `
 if (funclist === 1){ // calls function for adding a number
+
         addnumber()
+        
     }
-    else if(funclist === 2){ // calls minimum funciton
+    
+    else if(funclist === 2){ // calls minimum function
+    
         minimum()
+        
     }
+    
     else if(funclist === 3){ // calls maximum function
+    
         maximum()
+        
     }
+    
     else if(funclist === 4){ // calls average function
+    
         avg()
+        
     }
+    
 `
 In the these calls, the functions are calling for the outputs from addnumber(), or calling for the function itself, and displaying it in the terminal. This is testing for the "min max avg" values that were calculated in addnumber(). This will then display them once inputted number 1-4.
