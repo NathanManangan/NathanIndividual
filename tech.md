@@ -24,12 +24,10 @@ Nothing on OLD
 ## NEW PROJECT EVIDENCE:
 
 ### Database
-Nothing on NEW
+- [Commit change to Present Database](https://github.com/AkhilNandhakumar/Guython/commit/961ab1ad20cd71c4028695483ffe7b5f29b966e0)
 
 ### Login, Logout, @Login_Required, Signup
-- [Commit PROGRESS](https://github.com/PunarvasuS/PopcornCritics/commit/33831a478b7eb2f40b4d626df7b4a7b254808de4)
-
-- [Commit COMPLETION](https://github.com/PunarvasuS/PopcornCritics/commit/167af123a3a40a0633f0acd58d76c835c39f3083)
+Nothing on NEW
 
 ### Notes
 - [Commit for Notes 2](https://github.com/AkhilNandhakumar/Guython/commit/877819e37ead137032e8afe295db9365dc9ff979)
